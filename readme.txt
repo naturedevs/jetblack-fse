@@ -76,3 +76,4 @@ Fonts
     Poppins
         Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
         This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL
+---Edited by Codelover----
